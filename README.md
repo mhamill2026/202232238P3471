@@ -5,7 +5,7 @@
     <h1>P3471 Mia's Space</h1>
 
 </head>
-    <title> Super Cool Web Page </title>
+    <title> Super Cool Web Page
     <style>
         body { 
             font-family: Times-New-Roman; 
@@ -33,4 +33,5 @@
             height: auto;
             border-radius: 8px; /* Optional: adds slightly rounded corners */
         }
+        </title>
     </style>

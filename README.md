@@ -32,16 +32,3 @@
             border-radius: 8px; /* Optional: adds slightly rounded corners */
         }
     </style>
-</head>
-<body>
-    <header>
-        <h1>P3471 Instructor Space</h1>
-    </header>
-
-    <div class="image-container">
-        <img src="satellite.png" alt="Satellite">
-    </div>
-
-    <p>This page is used for P3471 demonstrations.</p>
-</body>
-</html>

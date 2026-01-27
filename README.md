@@ -33,5 +33,6 @@
             height: auto;
             border-radius: 8px; /* Optional: adds slightly rounded corners */
         }
-        </title>
+
     </style>
+            </title>

@@ -22,17 +22,6 @@
         h1 { 
             color: #fafcff; 
             margin: 0;
-        }
-        /* Style for the image container */
-        .image-container {
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        .image-container img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 8px; /* Optional: adds slightly rounded corners */
-        }
 
     </style>
             </title>

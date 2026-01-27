@@ -1,8 +1,10 @@
-<h1>P3471 Mia's Space</h1>
 
 <!DOCTYPE html>
 <html>
 <head>
+    <h1>P3471 Mia's Space</h1>
+
+</head>
     <title>Super Cool Web Page</title>
     <style>
         body { 
